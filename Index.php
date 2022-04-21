@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Foodly Love</title>
+        <link rel="stylesheet" href="stylesheet.css">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+        <link rel="icon" type="image/png" href="Images/#">
+</head>
+<body>
+    <section class="Header">
+            <div class="upper-nav">
+                <img src="Images/Food-logo.png" class="logo-header">
+                <div class="triangleS"></div>
+                <div class="social-medias">
+                    <p class="Clock"><i class="fa fa-clock-o"></i>Order Foods 24/7</p>
+                    <p class="Phone"><i class="fa fa-phone"></i>(+63) 9464621618</p>    
+                </div>
+                <div class="Medias">
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="#"><i class="fa fa-google-plus"></i></a>
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-linkedin"></i></a>
+                <a href="#"><i class="fa fa-pinterest-p"></i></a>
+                <a href="#"><i class="fa fa fa-youtube-square"></i></a>
+                <a href="#"><i class="fa fa-whatsapp"></i></a>
+                <a href="#"><i class="fa fa-instagram"></i></a>
+                </div>
+            </div>
+            <nav>
+            <div class="navigation-links">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Menu</a></li>
+                    <li><a href="#">Pages</a></li>
+                    <li><a href="#">Delivery</a></li>
+                    <li><a href="#">News</a></li>
+                    <li><a href="#">Features</a></li>
+                    <a href="#"><button  class="bttn" type="button">Table Booking</button></a>
+                </ul>
+            </div>
+        </nav>
+        <h1 class="Head-title">Foodly Love</h1>
+        <p class="slogan">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi. </p>    
+        <a href="#"><button  class="bttn1" type="button">Click</button></a>
+    </section>
+    <section class="About">
+        <div class="aboutuspage">
+        <p class="Aboutus">About us</p>
+        <img src="Images/Restaurant-img.png" class="Restau">
+        <p class="tasty">We are tasty</p>
+        <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan</p>
+        <p class="description1">dard dummy text ever since the 1500s,when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesettingdard dummy text ever since the 1500s,when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting</p>
+        <a href="#"><button  class="bttn2" type="button">Click here</button></a>
+        <img src="Images/Chili-img.png" class="chili">
+    </div>
+    </section>
+    <section class="Recipes">
+        <img src="Images/recipe-img1.jpg" class="food">
+        <p class="Special-recipes">Special Recipes</p>
+        <div class="box"></div>
+        <p class="tasteofprecious">Taste of precious</p>
+        <p class="description-recipe">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan</p>
+        <p class="description-recipe1">dard dummy text ever since the 1500s,when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesettingdard dummy text ever since the 1500s,when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting</p>
+        <a href="#"><button  class="bttn3" type="button">Click here</button></a>
+    </section>
+    <img src="Images/plate-img.png" class="plate">
+    <div class="Menu">
+        <p class="dful">Delightful</p>
+        <p class="experience">experience</p>
+    <div class="container-allfood">
+    <div class="container-food">
+        <img src="Images/Food-1.jpg" class="food2">
+        <div class="overlay1">
+            <div class="content-food1">Pancit Canton<br> W/Egg</div>
+            <div class="content-food2">$20</div>
+            <a href="#"><button  class="bttn-food1" type="button">Click here</button></a>
+        </div>
+    </div>
+        <div class="container-food1">
+            <img src="Images/Food-2.jpg" class="food2">
+            <div class="overlay2">
+                <div class="content-food3">Peanut Brittle<br> W/Lycopersicon</div>
+                <div class="content-food4">$30</div>
+                <a href="#"><button  class="bttn-food2" type="button">Click here</button></a>
+            </div>
+        </div>
+        <div class="container-food2">
+            <img src="Images/Food-3.jpg" class="food2">
+            <div class="overlay3">
+                <div class="content-food5">Honey Glazed<br> Roasted Chicken</div>
+                <div class="content-food6">$33</div>
+                <a href="#"><button  class="bttn-food3" type="button">Click here</button></a>
+            </div>
+        </div>
+        <div class="container-food3">
+            <img src="Images/Food-4.jpg" class="food2">
+            <div class="overlay4">
+                <div class="content-food7">Spring<br> Rolls</div>
+                <div class="content-food8">$15</div>
+                <a href="#"><button  class="bttn-food4" type="button">Click here</button></a>
+            </div>
+        </div>
+        <div class="container-food4">
+            <img src="Images/Food-5.jpg" class="food2">
+            <div class="overlay5">
+                <div class="content-food9">Messy Avocado<br> Burger</div>
+                <div class="content-food10">$35</div>
+                <a href="#"><button  class="bttn-food5" type="button">Click here</button></a>
+            </div>
+        </div>
+        <div class="container-food5">
+            <img src="Images/Food-6.jpg" class="food2">
+            <div class="overlay6">
+                <div class="content-food11">Neon Yellow<br> Chicken</div>
+                <div class="content-food12">$28</div>
+                <a href="#"><button  class="bttn-food6" type="button">Click here</button></a>
+            </div>
+        </div>
+     <div class="container-food6">
+        <img src="Images/Food-7.jpg" class="food2">
+        <div class="overlay7">
+            <div class="content-food13">Pita<br> Bread</div>
+            <div class="content-food14">$12</div>
+            <a href="#"><button  class="bttn-food7" type="button">Click here</button></a>
+        </div>
+    </div>
+    <div class="container-food7">
+        <img src="Images/Food-8.jpg" class="food2">
+        <div class="overlay8">
+            <div class="content-food15">Blue<br> Marlin</div>
+            <div class="content-food16">$22</div>
+            <a href="#"><button  class="bttn-food8" type="button">Click here</button></a>
+        </div>
+    </div>
+    <img src="Images/plate-img2.png" class="plate2">
+</div>
+</div>
+    <section class="menu-price">
+        <p class="dful1">Delightful</p>
+        <p class="Delicious">Delicious</p>
+        <img src="Images/drink-image.jpg" class="drink-image">
+        <img src="Images/drinks.jpg" class="drinks">
+        <p class="drinktitle">Drinks</p>
+        <p class="roast"> Tuna Roast Source.....................................$24.5</p>
+        <p class="roast1"> Tuna Roast Source.....................................$24.5</p>
+        <p class="roast2"> Tuna Roast Source.....................................$24.5</p>
+        <p class="roast3"> Tuna Roast Source.....................................$24.5</p>
+        <p class="roast4"> Tuna Roast Source.....................................$24.5</p>
+        <img src="Images/Food-main.jpg" class="drink-image1">
+        <img src="Images/drinks.jpg" class="drinks1">
+        <p class="drinktitle1">Main course</p>
+        <p class="main"> Tuna Roast Source.....................................$24.5</p>
+        <p class="main1"> Tuna Roast Source.....................................$24.5</p>
+        <p class="main2"> Tuna Roast Source.....................................$24.5</p>
+        <p class="main3"> Tuna Roast Source.....................................$24.5</p>
+        <p class="main4"> Tuna Roast Source.....................................$24.5</p>
+        <div class="container-dessert">
+        <img src="Images/desse.jpg" class="drink-image2">
+        <img src="Images/drinks.jpg" class="drinks2">
+        <p class="drinktitle2">Dessert</p>
+        <p class="dessert"> Tuna Roast Source.....................................$24.5</p>
+        <p class="dessert1"> Tuna Roast Source.....................................$24.5</p>
+        <p class="dessert2"> Tuna Roast Source.....................................$24.5</p>
+        <p class="dessert3"> Tuna Roast Source.....................................$24.5</p>
+        <p class="dessert4"> Tuna Roast Source.....................................$24.5</p>
+        <img src="Images/chilli2.png" class="chili1">
+    </div>
+    </section>
+   <section class="pcontainer">
+       <div class="mobileapp">
+        <video class="video" autoplay loop muted>
+            <source src="Images/Ad.mp4" type="video/mp4">
+          </video>
+          <img src="Images/phone.png" class="phone">
+          <p class="announce">Happy to Announce</p>
+          <p class="announce1">Mobile app</p>
+          <p class="announce2">is available in every os platform.</p>
+          <div class="button-store">
+          <img src="Images/playstore1.png" class="store">
+          <img src="Images/playstore.png" class="store1">
+        </div>
+        </div>
+     </section>
+     <section class="footer">
+         <img src="Images/carbonara-png.png" class="carbonara">
+         <img src="Images/spag-png.png" class="spag">
+         <p class="footertext">Take it easy with location</p>
+         <p class="footertext1">Working Hours</p>
+         <p class="footertext2">Feedback Form</p>
+         <div class="credentials">
+            <form action="https://formspree.io/f/mknyqlpg" method="POST">
+                <input name="Name" id="name" type="ame" placeholder="Name">
+                <button type="submit" class="bttn-footer">Click here</button>
+                <input name="Email" id="email" type="email" placeholder="Email">
+                <input name="Phone" id="phone" type="Phone" placeholder="Phone">
+                <input name="Message" id="message" type="Message" placeholder="Message">
+        </form>
+        </div>
+     </section>
+     <div class="footer-2"></div>
+</body>
+</html>
