@@ -1,0 +1,130 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Black
+FamilyName:Myriad Pro
+StyleName:Black
+FullName:Myriad Pro Black
+MenuName:Myriad Pro Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Food restaurant\Font\Myriad Pro Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97944
+FileModTime:1419663080
+WeightClass:900
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro Black
+NameArray:0,Win,1,Myriad Pro Black
+NameArray:0,Win,16,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Bold
+FamilyName:Myriad Pro
+StyleName:Bold
+FullName:Myriad Pro Bold
+MenuName:Myriad Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Food restaurant\Font\Myriad Pro Bold.ttf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:96484
+FileModTime:1414463680
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Myriad Pro Bold
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Light
+FamilyName:Myriad Pro
+StyleName:Light
+FullName:Myriad Pro Light
+MenuName:Myriad Pro Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Food restaurant\Font\Myriad Pro Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:79308
+FileModTime:1419663082
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Myriad Pro Light
+NameArray:0,Win,1,Myriad Pro Light
+NameArray:0,Win,16,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+FullName:Myriad Pro
+MenuName:Myriad Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Food restaurant\Font\Myriad Pro Regular.ttf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94884
+FileModTime:1414463680
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Myriad Pro
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pacifico-Regular
+FamilyName:Pacifico
+StyleName:Regular
+FullName:Pacifico Regular
+MenuName:Pacifico
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Food restaurant\Font\Pacifico.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:43632
+FileModTime:1337014316
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Pacifico Regular
+NameArray:0,Mac,4,Pacifico Regular
+NameArray:0,Win,1,Pacifico
+%EndFont
+
